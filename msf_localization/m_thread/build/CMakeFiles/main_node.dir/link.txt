@@ -1,0 +1,1 @@
+/usr/bin/c++   -O3 -Wall   CMakeFiles/main_node.dir/src/main_node.cpp.o  -o main_node -lpthread 
